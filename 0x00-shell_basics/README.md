@@ -1,1 +1,1 @@
-The file that contain the script that print absolute path
+The files that contain the scripts for shell command line
